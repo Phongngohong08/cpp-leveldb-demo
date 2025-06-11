@@ -30,7 +30,9 @@ chmod +x build.sh
 
 4. Chạy chương trình Go:
 ```bash
-go run go_main.go
+go run go_main.
+hoặc
+./cpp_leveldb_demo
 ```
 
 ### Kết quả mong đợi
